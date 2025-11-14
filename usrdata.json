@@ -14,19 +14,19 @@
     {
         "device_id": "2486937d68f4b03f",
         "key": "Bungo2",
-        "expirydate": "01-09-2026",
+        "expirydate": "01-09-2025",
         "Allowoffline": true
     }, 
     {
         "device_id": "5b6598732dd55f4f",
         "key": "Bungo3",
-        "expirydate": "01-09-2026",
+        "expirydate": "01-09-2025",
         "Allowoffline": true
     }, 
     {
         "device_id": "97e719d552fa2367",
         "key": "Bungo4",
-        "expirydate": "01-09-2026",
+        "expirydate": "01-09-2025",
         "Allowoffline": true
     }, 
 ]
