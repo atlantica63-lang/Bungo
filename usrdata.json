@@ -41,4 +41,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
+    {
+        "device_id": "1c7560840e89861a",
+        "key": "Bungo7",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
