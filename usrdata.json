@@ -29,4 +29,10 @@
         "expirydate": "01-09-2025",
         "Allowoffline": true
     }, 
+    {
+        "device_id": "4dd48dc9d406dd22",
+        "key": "Bungo5",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
 ]
