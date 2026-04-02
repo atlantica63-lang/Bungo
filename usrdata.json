@@ -65,9 +65,15 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
-        {
+    {
         "device_id": "092feb753f08f631xxx",
         "key": "Hbungo11",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+    },
+        {
+        "device_id": "65669c0326e483c3",
+        "key": "Hbungo12",
         "expirydate": "31-12-2026",
         "Allowoffline": true
     },
