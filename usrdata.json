@@ -77,4 +77,10 @@
         "expirydate": "02-04-2027",
         "Allowoffline": true
     },
+    {
+        "device_id": "e7e4e432386b4999",
+        "key": "Bbungo13",
+        "expirydate": "16-04-2027",
+        "Allowoffline": true
+    },
 ]
